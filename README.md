@@ -1,3 +1,5 @@
+> 🇬🇧 **English version available here:** [README_EN.md](./README_EN.md)
+
 # boundary-tension-contract
 
 Dépôt privé de recherche conceptuelle consacré aux signaux de tension aux frontières dans les systèmes IA runtime.
