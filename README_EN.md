@@ -1,3 +1,5 @@
+> 🇫🇷 **Version française disponible ici :** [README.md](./README.md)
+
 # boundary-tension-contract
 
 Private conceptual research repository dedicated to boundary tension signals in runtime AI systems.
