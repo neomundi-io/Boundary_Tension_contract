@@ -2,7 +2,7 @@
 
 # boundary-tension-contract
 
-Dépôt privé de recherche conceptuelle consacré aux signaux de tension aux frontières dans les systèmes IA runtime.
+Dépôt public de recherche conceptuelle consacré aux signaux de tension aux frontières dans les systèmes IA runtime.
 
 Ce dépôt explore une intuition simple :
 
